@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArrayList_json</string>
+
+    <string name="type_doctor">Type doctor</string>
+    <string name="name_doctor">Name doctor</string>
+    <string name="email_doctor">Email doctor</string>
+</resources>
